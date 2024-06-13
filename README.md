@@ -34,4 +34,7 @@ For react project:
 3. Testimg project ```npm test```
 
 In general:
-If we would like to create a production build, so use ```npm run build``` 
+If we would like to create a production build, so use ```npm run build```
+
+file .env 
+"SKIP_PREFLIGHT_CHECK=true"

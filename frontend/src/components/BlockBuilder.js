@@ -38,7 +38,7 @@ const BlockBuilder = () => {
 
   return (
     <div className="block-builder">
-      <h1>Block Builder (~20mins)</h1>
+      <h1>Block Builder</h1>
       <div className="instructions">
         <p>Blocks start out empty.</p>
         <p>1 new block is added to the screen every one second.</p>

@@ -27,6 +27,7 @@ Ensure React is running on http://localhost:3000/.
 1. Navigate to the `frontend` directory:
    ```sh
    cd frontend```
+   
 For react project:
 1. Install dependencies ```npm install```
 2. Run project with ```npm start```

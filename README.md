@@ -4,11 +4,15 @@ A block builder application with a Flask backend and React frontend.
 
 ## Backend(flask)
 
+### Instructions to Verify
+
+1. Clone the repository from GitHub:
+   ```
+   git clone https://github.com/metteiram/block-builder.git```
 ### Setup
 
 1. Navigate to the `backend` directory:
-   ```sh
-   cd backend```
+   ``` cd backend```
 
 1. Create a virtual environment and activate it
   ```python3 -m venv venv```
@@ -25,8 +29,7 @@ Ensure Flask is running on http://127.0.0.1:5000/.
 Ensure React is running on http://localhost:3000/.
 
 1. Navigate to the `frontend` directory:
-   ```sh
-   cd frontend```
+   ```cd frontend```
    
 For react project:
 1. Install dependencies ```npm install```

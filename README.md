@@ -2,7 +2,7 @@
 
 A block builder application with a Flask backend and React frontend.
 
-## Backend
+## Backend(flask)
 
 ### Setup
 
@@ -15,6 +15,11 @@ A block builder application with a Flask backend and React frontend.
 ```source venv/bin/activate```
 2. Install dependencies 
 ```pip install -r requirements.txt```
-3. Testing ``` pip install -r requirements.txt```
+3. Testing
+```python -m unittest testforduplictes.py ```
 
-
+- Backend (Flask):
+```python app.py```
+Ensure Flask is running on http://127.0.0.1:5000/.
+- Frontend (React):
+Ensure React is running on http://localhost:3000/.
